@@ -289,8 +289,8 @@ a:hover::before {
 
 .footer__center hr {
     position: relative;
-    top: -185px;
-    left: 260px;
+    top: -230px;
+    left: 240px;
     height: 180px;
     border-right: 1px solid #000;
     width: 0;
